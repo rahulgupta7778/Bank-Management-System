@@ -129,13 +129,13 @@ The project includes extensive validation mechanisms:
 ## Compile the Program
 
 ```bash
-javac Question_110.java
+javac BANK_MANAGEMENT_SYSTEM.java
 ```
 
 ## Run the Program
 
 ```bash
-java Question_110
+java BANK_MANAGEMENT_SYSTEM
 ```
 
 ---
